@@ -15,7 +15,7 @@ require (
 	github.com/jackc/pgx/v5 v5.5.5
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
-	github.com/vektah/gqlparser/v2 v2.5.28
+	github.com/vektah/gqlparser/v2 v2.5.30
 	github.com/xuri/excelize/v2 v2.9.1
 	go.mongodb.org/mongo-driver v1.17.3
 	gorm.io/driver/clickhouse v0.7.0
